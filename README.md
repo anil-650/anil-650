@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anil-650
+- 👋 Hi, I’m Anil Kumar Hansda.
 - 👀 I’m interested in how things work.
 - 🌱 I’m currently learning C, html, javascript, css.
 <!--- 💞️ I’m looking to collaborate on ...--->
